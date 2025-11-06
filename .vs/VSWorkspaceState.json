@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\Interfaces",
+    "\\Application\\Services",
+    "\\Data",
+    "\\Database",
+    "\\Data\\input",
+    "\\Data\\staging",
+    "\\sql",
+    "\\Worker"
+  ],
+  "SelectedNode": "\\Database\\etl_data.db",
+  "PreviewInSolutionExplorer": false
+}
