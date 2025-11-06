@@ -37,5 +37,5 @@ Este proyecto implementa un **proceso ETL (Extract, Transform, Load)** automatiz
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/<tu-usuario>/ETL.Worker.git
+git clone https://github.com/JoseLB220/ETL.Worker
 cd ETL.Worker
